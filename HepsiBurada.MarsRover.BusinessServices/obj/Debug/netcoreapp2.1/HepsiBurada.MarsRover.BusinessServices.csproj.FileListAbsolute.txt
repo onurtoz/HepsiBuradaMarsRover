@@ -1,0 +1,14 @@
+C:\Users\otoz\Desktop\HepsiBuradaChanlge\HepsiBurada.MarsRover.Solution\HepsiBurada.MarsRover.BusinessServices\obj\Debug\netcoreapp2.1\HepsiBurada.MarsRover.BusinessServices.csprojAssemblyReference.cache
+C:\Users\otoz\Desktop\HepsiBuradaChanlge\HepsiBurada.MarsRover.Solution\HepsiBurada.MarsRover.BusinessServices\obj\Debug\netcoreapp2.1\HepsiBurada.MarsRover.BusinessServices.csproj.CoreCompileInputs.cache
+C:\Users\otoz\Desktop\HepsiBuradaChanlge\HepsiBurada.MarsRover.Solution\HepsiBurada.MarsRover.BusinessServices\obj\Debug\netcoreapp2.1\HepsiBurada.MarsRover.BusinessServices.AssemblyInfoInputs.cache
+C:\Users\otoz\Desktop\HepsiBuradaChanlge\HepsiBurada.MarsRover.Solution\HepsiBurada.MarsRover.BusinessServices\obj\Debug\netcoreapp2.1\HepsiBurada.MarsRover.BusinessServices.AssemblyInfo.cs
+C:\Users\otoz\Desktop\HepsiBuradaChanlge\HepsiBurada.MarsRover.Solution\HepsiBurada.MarsRover.BusinessServices\bin\Debug\netcoreapp2.1\HepsiBurada.MarsRover.BusinessServices.deps.json
+C:\Users\otoz\Desktop\HepsiBuradaChanlge\HepsiBurada.MarsRover.Solution\HepsiBurada.MarsRover.BusinessServices\bin\Debug\netcoreapp2.1\HepsiBurada.MarsRover.BusinessServices.dll
+C:\Users\otoz\Desktop\HepsiBuradaChanlge\HepsiBurada.MarsRover.Solution\HepsiBurada.MarsRover.BusinessServices\bin\Debug\netcoreapp2.1\HepsiBurada.MarsRover.BusinessServices.pdb
+C:\Users\otoz\Desktop\HepsiBuradaChanlge\HepsiBurada.MarsRover.Solution\HepsiBurada.MarsRover.BusinessServices\bin\Debug\netcoreapp2.1\HepsiBurada.MarsRover.BusinessModel.dll
+C:\Users\otoz\Desktop\HepsiBuradaChanlge\HepsiBurada.MarsRover.Solution\HepsiBurada.MarsRover.BusinessServices\bin\Debug\netcoreapp2.1\HepsiBurada.MarsRover.Common.dll
+C:\Users\otoz\Desktop\HepsiBuradaChanlge\HepsiBurada.MarsRover.Solution\HepsiBurada.MarsRover.BusinessServices\bin\Debug\netcoreapp2.1\HepsiBurada.MarsRover.BusinessModel.pdb
+C:\Users\otoz\Desktop\HepsiBuradaChanlge\HepsiBurada.MarsRover.Solution\HepsiBurada.MarsRover.BusinessServices\bin\Debug\netcoreapp2.1\HepsiBurada.MarsRover.Common.pdb
+C:\Users\otoz\Desktop\HepsiBuradaChanlge\HepsiBurada.MarsRover.Solution\HepsiBurada.MarsRover.BusinessServices\obj\Debug\netcoreapp2.1\HepsiBurada.MarsRover.BusinessServices.csproj.CopyComplete
+C:\Users\otoz\Desktop\HepsiBuradaChanlge\HepsiBurada.MarsRover.Solution\HepsiBurada.MarsRover.BusinessServices\obj\Debug\netcoreapp2.1\HepsiBurada.MarsRover.BusinessServices.dll
+C:\Users\otoz\Desktop\HepsiBuradaChanlge\HepsiBurada.MarsRover.Solution\HepsiBurada.MarsRover.BusinessServices\obj\Debug\netcoreapp2.1\HepsiBurada.MarsRover.BusinessServices.pdb

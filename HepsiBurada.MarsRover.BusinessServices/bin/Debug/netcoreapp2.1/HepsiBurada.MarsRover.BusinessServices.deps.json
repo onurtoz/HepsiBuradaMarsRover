@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "HepsiBurada.MarsRover.BusinessServices/1.0.0": {
+        "dependencies": {
+          "HepsiBurada.MarsRover.BusinessModel": "1.0.0"
+        },
+        "runtime": {
+          "HepsiBurada.MarsRover.BusinessServices.dll": {}
+        }
+      },
+      "HepsiBurada.MarsRover.BusinessModel/1.0.0": {
+        "dependencies": {
+          "HepsiBurada.MarsRover.Common": "1.0.0"
+        },
+        "runtime": {
+          "HepsiBurada.MarsRover.BusinessModel.dll": {}
+        }
+      },
+      "HepsiBurada.MarsRover.Common/1.0.0": {
+        "runtime": {
+          "HepsiBurada.MarsRover.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HepsiBurada.MarsRover.BusinessServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HepsiBurada.MarsRover.BusinessModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HepsiBurada.MarsRover.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
